@@ -1,0 +1,7 @@
+model,test_MASE,test_MAE
+OLS log(tows+1) (Part C model 3),0.968,10.802
+Poisson GLM (mean),0.991,11.071
+Negative Binomial GLM (mean),1.049,11.802
+Negative Binomial GLM (median),0.934,10.594
+Naive: yesterday (Part C extension),0.926,10.16
+Boosted correction (Part C extension),0.7,7.71

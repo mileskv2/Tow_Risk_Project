@@ -1,0 +1,4 @@
+,MASE,MAE (cars/day),Ljung-Box p (lag 7)
+Citywide OLS (weather+calendar),1.025,172.488,0.0
+"Regression + ARMA(1,1) errors",0.753,126.728,0.0
+Naive: yesterday,0.78,131.244,

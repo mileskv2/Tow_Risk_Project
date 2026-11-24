@@ -1,0 +1,3 @@
+,AUC,surge_days,caught,false_alarms,starts,starts_caught
+Logistic (weather+calendar),0.945,42.0,25.0,7.0,6.0,4.0
+Naive: surge if surge yesterday,0.879,42.0,33.0,9.0,6.0,0.0
